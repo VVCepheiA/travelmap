@@ -36,8 +36,6 @@ module.exports = function() {
         .attr("class", "container")
         .style("width", width + "px");
 
-      d3.select(".container").append("h2").text("United Kingdom");
-      makeMap(".container", projections.uk(width * 0.5), processed, world);
       d3.select(".container").append("h2").text("Europe");
       makeMap(".container", projections.europe(width), processed, world);
       d3.select(".container").append("h2").text("North America");

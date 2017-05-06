@@ -2896,5 +2896,29 @@
             "lat": 38.92880455,
             "lon": -119.987831498967
         }
+    ],
+    "[\"DURBAN, ZN, SOUTH AFRICA\"]": [
+        {
+            "lat": -29.858680,
+            "lon": 31.021840
+        }
+    ],
+    "[\"SCHAERBEEK, BRU, BELGIUM\"]": [
+        {
+            "lat": 50.867416,
+            "lon": 4.377298
+        }
+    ],
+    "[\"CORDOBA, CO, SPAIN & CANARY ISLANDS\"]": [
+        {
+            "lat": 37.974152,
+            "lon": -4.856089
+        }
+    ],
+    "[\"MANAGUA, MN, NICARAGUA\"]": [
+        {
+            "lat": 12.114993,
+            "lon": -86.236174
+        }
     ]
 }
